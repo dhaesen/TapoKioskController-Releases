@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.12",
-  "apkUrl": "https://raw.githubusercontent.com/dhaesen/TapoKioskController-Releases/main/TapoKioskController-latest.apk",
-  "sha256": "f1913c952fdf7e9dbaeb21d80a4ba318dd367e1e303762c1bdb9dd3a1ebb94e1"
+  "versionCode": 13,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/dhaesen/TapoKioskController-Releases/releases/download/v1.13/TapoKioskController-v1.13.apk",
+  "sha256": "e8d5ec4565fd88a5fde8be5a9c4daaabaada3742a57004ea0bf4e39f5a8a18a1"
 }
