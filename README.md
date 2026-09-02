@@ -1,6 +1,6 @@
 # TapoKioskController Releases
 Öffentlicher Downloadbereich für die signierte Tapo Kiosk Controller APK.
 
-Aktuelle Version: **1.25**
+Aktuelle Version: **1.26**
 
-Die jeweils aktuelle Version steht zusätzlich als GitHub Release **v1.25** bereit.
+Die jeweils aktuelle Version steht zusätzlich als GitHub Release **v1.26** bereit.
